@@ -4,8 +4,8 @@
 
 Este repositorio contiene dos herramientas para analizar y visualizar la actividad de interacciones con modelos de IA en un calendario de calor anual:
 
-- **[ChatGPT](#)**: Herramienta para analizar el uso de ChatGPT a partir de sus datos de exportación.
-- **[Claude](#)**: Herramienta para analizar el uso de Claude a partir de sus datos de exportación.
+- **[ChatGPT](https://github.com/marcmayol/Arsenal-IA/tree/main/Estad%C3%ADsticas%20de%20Uso%20de%20Inteligencia%20Artificial/chatgpt)**: Herramienta para analizar el uso de ChatGPT a partir de sus datos de exportación.
+- **[Claude](https://github.com/marcmayol/Arsenal-IA/tree/main/Estad%C3%ADsticas%20de%20Uso%20de%20Inteligencia%20Artificial/claude/export_claude)**: Herramienta para analizar el uso de Claude a partir de sus datos de exportación.
 
 Ambas herramientas generan un heatmap basado en los datos de conversaciones almacenados en archivos JSON exportados desde cada plataforma.
 
